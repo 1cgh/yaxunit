@@ -105,6 +105,7 @@
   <commonModules>CommonModule.ЮТТипыДанныхСлужебный</commonModules>
   <commonModules>CommonModule.ЮТУтверждения</commonModules>
   <commonModules>CommonModule.ЮТУтвержденияИБ</commonModules>
+  <commonModules>CommonModule.ЮТУтвержденияКоллекция</commonModules>
   <commonModules>CommonModule.ЮТФабрика</commonModules>
   <commonModules>CommonModule.ЮТФайлы</commonModules>
   <commonModules>CommonModule.ЮТФильтрация</commonModules>
